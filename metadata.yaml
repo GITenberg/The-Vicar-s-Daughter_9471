@@ -1,0 +1,28 @@
+_repo: The-Vicar-s-Daughter_9471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: During the Victorian era, a vicar's daughter recalls her life story.
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Children of clergy -- Fiction'
+- !lcsh 'Christian fiction'
+- GITenberg
+title: The Vicar's Daughter
+url: http://www.gutenberg.org/ebooks/9471
